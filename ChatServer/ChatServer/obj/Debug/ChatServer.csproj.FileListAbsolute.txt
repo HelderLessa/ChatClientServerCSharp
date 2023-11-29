@@ -1,0 +1,10 @@
+C:\Helder\TI\cSharp\cursoGabriel\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Helder\TI\cSharp\cursoGabriel\ChatServer\ChatServer\obj\Debug\ChatServer.Form1.resources
+C:\Helder\TI\cSharp\cursoGabriel\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Helder\TI\cSharp\cursoGabriel\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Helder\TI\cSharp\cursoGabriel\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Helder\TI\cSharp\cursoGabriel\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Helder\TI\cSharp\cursoGabriel\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Helder\TI\cSharp\cursoGabriel\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Helder\TI\cSharp\cursoGabriel\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Helder\TI\cSharp\cursoGabriel\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
